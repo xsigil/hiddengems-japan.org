@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '公式サイトのない口コミ評判店'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[taxonomies]
+  category = "categories"
+  state    = "states"
+  tag      = "tags" # デフォルト設定も残しておくのが無難です

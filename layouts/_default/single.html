@@ -1,0 +1,20 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <time>{{ .Date | time.Format "2006年01月02日" }}</time>
+
+  <div class="meta-box">
+    <h3>店舗情報</h3>
+    <ul>
+      <li><strong>カテゴリ:</strong> {{ .Params.category }}</li>
+      <li><strong>評価:</strong> <span class="rating">★ {{ .Params.rating }}</span> (口コミ {{ .Params.count }}件)</li>
+      <li><strong>電話:</strong> {{ .Params.phone }}</li>
+      <li><strong>住所:</strong> {{ .Params.address }}</li>
+    </ul>
+  </div>
+
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+<div class="list-container">
+  {{ range .Pages }}
+    <section style="margin-bottom: 30px; border-bottom: 1px dashed #ccc; padding-bottom: 20px;">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p>
+        <span class="rating">★ {{ .Params.rating }}</span> | 
+        {{ if .Params.categories }}
+        <span>{{ index .Params.categorie 0 }}</span> | 
+        {{ end }}
+        {{ if .Params.states }}
+        <small>{{ index .Params.states 0}}
+        {{ end }}
+        {{ if .Params.cities}}
+        {{ index .Params.cities 0}}</small>
+        {{ end }}
+      </p>
+      <p>{{ .Summary | truncate 100 }}</p>
+      <a href="{{ .RelPermalink }}">続きを読む →</a>
+    </section>
+  {{ end }}
+</div>
+{{ end }}

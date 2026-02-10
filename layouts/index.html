@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ .Content }}
+
+  <h1>地域から探す</h1>
+  <ul class="link-list">
+    {{ range $name, $taxonomy := .Site.Taxonomies.states }}
+      <li><a href="{{ "/states/" | relLangURL }}{{ $name | urlize }}">{{ $name }} ({{ $taxonomy.Count }})</a></li>
+    {{ end }}
+  </ul>
+
+  <h1>カテゴリーから探す</h1>
+  <ul class="link-list">
+    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      <li><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }} ({{ $taxonomy.Count }})</a></li>
+    {{ end }}
+  </ul>
+{{ end }}

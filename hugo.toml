@@ -1,5 +1,5 @@
 baseURL = 'https://hiddengems-japan.org/'
-languageCode = 'en-us'
+languageCode = 'ja-jp'
 defaultContentLanguage = "ja"
 title = '公式サイトのない口コミ評判店'
 [markup]

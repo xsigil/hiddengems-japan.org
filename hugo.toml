@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
+defaultContentLanguage = "ja"
 title = '公式サイトのない口コミ評判店'
 [markup]
   [markup.goldmark]
@@ -9,3 +10,19 @@ title = '公式サイトのない口コミ評判店'
   category = "categories"
   state    = "states"
   tag      = "tags" # デフォルト設定も残しておくのが無難です
+#[languages]
+#  [languages.ja]
+#    languageName = "日本語"
+#    contentDir = "content_ja" # フォルダを分ける
+#    weight = 1
+#    title = '公式サイトのない口コミ評判店'
+#  [languages.en]
+#    languageName = "English"
+#    contentDir = "content_en"
+#    weight = 2
+#    title = "Japan's Hidden Gems: High-Rated Local Eats"
+#  [languages.es]
+#    languageName = "Spanish"
+#    contentDir = "content_es"
+#    weight = 3 
+#    title = "Joyas Ocultas de Japón: Restaurantes Locales"

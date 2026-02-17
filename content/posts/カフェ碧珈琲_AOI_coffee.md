@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】カフェ碧珈琲 AOI coffeeの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-02-17T18:21:16+09:00
 phone: "0725-58-9422"
 address: "〒594-0006 大阪府和泉市尾井町１丁目９−５ カフェ碧珈琲 AOI coffee"
 states: ["大阪府"]

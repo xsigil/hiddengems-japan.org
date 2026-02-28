@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Asagaya Cafe (阿佐ヶ谷カフェ)の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-02-28T13:08:11+09:00
 phone: "03-3311-6108"
 address: "〒166-0004 東京都杉並区阿佐谷南２丁目１９−８ Asagaya Cafe (阿佐ヶ谷カフェ) ホテルSプリ1F"
 states: ["東京都"]

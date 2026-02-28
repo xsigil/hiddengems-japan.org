@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】HaiThyの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-02-28T13:08:11+09:00
 phone: "090-2472-4848"
 address: "〒252-0014 神奈川県座間市栗原中央６丁目１−５３ HaiThy"
 states: ["神奈川県"]

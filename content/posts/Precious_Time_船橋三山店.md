@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Precious Time 船橋三山店の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-02-28T13:08:11+09:00
 phone: "090-3533-1920"
 address: "〒274-0072 千葉県船橋市三山２丁目４４−１０ Bee Stretch 内 Precious Time 船橋三山店"
 states: ["千葉県"]

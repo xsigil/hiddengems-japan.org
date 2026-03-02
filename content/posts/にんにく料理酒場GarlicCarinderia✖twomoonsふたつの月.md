@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】にんにく料理酒場GarlicCarinderia✖twomoonsふたつの月の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-02T22:35:37+09:00
 phone: "03-6822-2729"
 address: "〒120-0015 東京都足立区足立１丁目１０−９ 1 階 102号 青いお店 にんにく料理酒場GarlicCarinderia✖twomoonsふたつの月"
 states: ["東京都"]

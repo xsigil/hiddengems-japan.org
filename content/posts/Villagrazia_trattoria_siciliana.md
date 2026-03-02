@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Villagrazia trattoria sicilianaの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-02T22:35:37+09:00
 phone: "046-874-7471"
 address: "〒238-0011 神奈川県横須賀市米が浜通１丁目１ Villagrazia trattoria siciliana"
 states: ["神奈川県"]

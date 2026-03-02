@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】osteria Lumacaの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-02T22:35:37+09:00
 phone: "03-3354-5533"
 address: "〒160-0006 東京都新宿区舟町７−４６ 2階 osteria Lumaca"
 states: ["東京都"]

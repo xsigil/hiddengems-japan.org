@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Honolu Shinjukugyoenmae Halal Ramenの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-02T22:35:37+09:00
 phone: "03-5357-7664"
 address: "〒160-0022 東京都新宿区新宿１丁目３１−３ B1F Honolu Shinjukugyoenmae Halal Ramen"
 states: ["東京都"]

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Soin de Blanche ライフ八戸ノ里店の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-04T19:21:52+09:00
 phone: "06-6730-8118"
 address: "〒577-0803 大阪府東大阪市下小阪５丁目２−３５ ライフ ２階 Soin de Blanche ライフ八戸ノ里店"
 states: ["大阪府"]

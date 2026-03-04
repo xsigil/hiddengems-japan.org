@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】レストラン（Warung Wong Jowo）の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-04T19:21:52+09:00
 phone: "090-6871-1088"
 address: "〒133-0056 東京都江戸川区南小岩５丁目８−２４ 駐車場 レストラン（Warung Wong Jowo）"
 states: ["東京都"]

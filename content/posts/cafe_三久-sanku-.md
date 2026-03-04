@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】cafe 三久-sanku-の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-04T19:21:52+09:00
 phone: "093-234-1221"
 address: "〒807-0878 福岡県北九州市八幡西区三ツ頭２丁目２−６ cafe 三久-sanku-"
 states: ["福岡県"]

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Cafe Shimamun+の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-04T19:21:52+09:00
 phone: "080-6497-1392"
 address: "〒901-3502 沖縄県島尻郡渡嘉敷村阿波連１５２ Cafe Shimamun+"
 states: ["沖縄県島尻郡"]

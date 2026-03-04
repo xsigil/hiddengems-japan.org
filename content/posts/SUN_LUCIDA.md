@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】SUN LUCIDAの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-04T19:21:52+09:00
 phone: ""
 address: "〒253-0084 神奈川県茅ヶ崎市円蔵１丁目１５−３５ SUN LUCIDA"
 states: ["神奈川県"]

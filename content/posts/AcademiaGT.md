@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】AcademiaGTの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-04T19:21:52+09:00
 phone: "080-9523-2048"
 address: "〒370-0516 群馬県邑楽郡大泉町中央１丁目１−２１ AcademiaGT"
 states: ["群馬県邑楽郡"]

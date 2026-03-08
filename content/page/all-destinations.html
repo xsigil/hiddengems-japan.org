@@ -1,6 +1,0 @@
-<h2>Hidden Gems in Japan</h2>
-<ul>
-  {{ range (where .Site.RegularPages "Type" "posts") }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-  {{ end }}
-</ul>

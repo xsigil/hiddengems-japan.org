@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】44 coffeeの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-09T15:59:15+09:00
 phone: ""
 address: "〒816-0802 福岡県春日市春日原北町２丁目１９ 44 coffee"
 states: ["福岡県"]

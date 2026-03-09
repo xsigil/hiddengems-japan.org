@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】うなぎ処 葵 UNAGI-DOKORO AOIの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-09T15:59:15+09:00
 phone: "03-5809-1899"
 address: "〒101-0024 東京都千代田区神田和泉町１−４−５ キンゴビル 1F うなぎ処 葵 UNAGI-DOKORO AOI"
 states: ["東京都"]

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】oyster bar UOICHI（ウオイチ）の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-09T15:59:15+09:00
 phone: "050-3623-2447"
 address: "〒359-0045 埼玉県所沢市美原町５丁目２０４０−２ oyster bar UOICHI（ウオイチ）"
 states: ["埼玉県"]

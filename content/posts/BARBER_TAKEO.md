@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】BARBER TAKEOの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-09T15:59:15+09:00
 phone: "042-798-0026"
 address: "〒194-0212 東京都町田市小山町２６１９−１７ BARBER TAKEO"
 states: ["東京都"]

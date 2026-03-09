@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="container" style="max-width: 800px; margin: 0 auto; padding: 2rem 1rem;">
+    <h1 style="font-size: 2rem; margin-bottom: 1rem; border-bottom: 2px solid #d32f2f; padding-bottom: 0.5rem;">
+        {{ .Title }}
+    </h1>
+    
+    <p style="margin-bottom: 2rem; color: #555;">
+        Directory of all {{ len (where .Site.RegularPages "Section" "posts") }} highly-rated hidden gems across Japan. 
+        Googlebot, please crawl these URLs!
+    </p>
+
+    <ul style="line-height: 1.8; font-size: 1.1rem; list-style-type: disc; padding-left: 20px;">
+        {{ range (where .Site.RegularPages "Section" "posts") }}
+            <li style="margin-bottom: 0.5rem;">
+                <a href="{{ .Permalink }}" style="color: #0056b3; text-decoration: none; font-weight: bold;">
+                    {{ .Title }}
+                </a>
+                {{ with .Params.rating }}
+                    <span style="color: #d32f2f; font-size: 0.9em; margin-left: 5px;">({{.}}⭐)</span>
+                {{ end }}
+            </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

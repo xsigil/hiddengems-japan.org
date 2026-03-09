@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】カタルシックスジム 恵比寿店 CATHARSIX GYMの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-09T15:59:15+09:00
 phone: "03-6432-5985"
 address: "〒150-0013 東京都渋谷区恵比寿２丁目９−１ シャンブル恵比寿 1F カタルシックスジム 恵比寿店 CATHARSIX GYM"
 states: ["東京都"]

@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】cafe&bar Hitiwaの口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-11T14:33:08+09:00
 phone: "048-999-6650"
 address: "〒343-0026 埼玉県越谷市北越谷４丁目３−１５ cafe&bar Hitiwa"
 states: ["埼玉県"]

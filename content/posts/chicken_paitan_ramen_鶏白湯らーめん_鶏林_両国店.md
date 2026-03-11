@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】chicken paitan ramen 鶏白湯らーめん 鶏林 両国店の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-11T14:33:08+09:00
 phone: "03-6685-9768"
 address: "〒130-0026 東京都墨田区両国４丁目３２−２ chicken paitan ramen 鶏白湯らーめん 鶏林 両国店"
 states: ["東京都"]

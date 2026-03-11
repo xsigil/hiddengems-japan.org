@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】HALAL RAMEN & WAGYU 「SAMURAI SOUL」の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-11T14:33:08+09:00
 phone: "070-7639-1455"
 address: "〒111-0032 東京都台東区浅草２丁目２１−９ 城所ビル 1F HALAL RAMEN & WAGYU 「SAMURAI SOUL」"
 states: ["東京都"]

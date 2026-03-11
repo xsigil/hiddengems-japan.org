@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 title: "【公式サイトなし】Cafe PLAT 木屋の口コミ・評判を分析"
-date: 2026-02-08T19:00:00+09:00
+date: 2026-03-11T14:33:08+09:00
 phone: ""
 address: "〒102-0072 東京都千代田区飯田橋４丁目３−２ Cafe PLAT 木屋"
 states: ["東京都"]
